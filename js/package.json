@@ -1,0 +1,11 @@
+{
+  "name": "lc_dailies",
+  "version": "1.0.0",
+  "description": "A project for daily coding challenges",
+  "main": "index.js",
+  "scripts": {
+    "create": "touch \"$(date +%Y-%m-%d).js\""
+  },
+  "author": "Mark Hayford",
+  "license": "ISC"
+}
